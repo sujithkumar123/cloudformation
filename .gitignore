@@ -1,5 +1,5 @@
  albandelb.yaml
-alb.tf
+
 alb with two targetgroup and twolistnerruleusingcloudformation.docx
 Application loadbalancer with autoscaling.docx
 backend.tf
